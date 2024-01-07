@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.web.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/web-project/3">
+<<<<<<< HEAD
             <name>TaylorFansitee</name>
+=======
+            <name>TSFansiteWeb</name>
+>>>>>>> 1059339fe536a543f57e8e1378920a03a81be402
             <minimum-ant-version>1.6.5</minimum-ant-version>
             <web-module-libraries>
                 <library dirs="200">

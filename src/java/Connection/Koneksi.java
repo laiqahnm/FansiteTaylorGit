@@ -17,7 +17,11 @@ public class Koneksi {
     public static Connection getCon() throws SQLException {
         if(con==null){
         try {
+<<<<<<< HEAD
             String DB="jdbc:mysql://localhost:3306/dbtaylor"; // dbtaylor database
+=======
+            String DB="jdbc:mysql://localhost:8111/dbtaylor"; // dbtaylor database
+>>>>>>> 1059339fe536a543f57e8e1378920a03a81be402
                 String user="root"; // user database
                 String pass=""; // password database
                 DriverManager.registerDriver(new com.mysql.jdbc.Driver());

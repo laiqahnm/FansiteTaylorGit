@@ -7,8 +7,13 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
+<<<<<<< HEAD
 <project name="TaylorFansitee" default="default" basedir=".">
     <description>Builds, tests, and runs the project TaylorFansitee.</description>
+=======
+<project name="TSFansiteWeb" default="default" basedir=".">
+    <description>Builds, tests, and runs the project TSFansiteWeb.</description>
+>>>>>>> 1059339fe536a543f57e8e1378920a03a81be402
     <import file="nbproject/build-impl.xml"/>
     <!--
 

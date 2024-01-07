@@ -17,7 +17,11 @@
     <link rel="stylesheet" href="./css/styles.css">
 
         <!-- ini title -->
+<<<<<<< HEAD
         <title>FP Taylor Swift Coba</title>
+=======
+        <title>FP Taylor Swift kerennn</title>
+>>>>>>> 1059339fe536a543f57e8e1378920a03a81be402
 
         <!-- ini link css buat manggil slick carousel nya dan make tema bawaan nya slick -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css">
